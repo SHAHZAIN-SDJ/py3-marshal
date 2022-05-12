@@ -23,5 +23,6 @@ $ python run.py
 ```
 
 [**My Facebook**](https://facebook.com/SoryBro.IAm.Noob) </br>
-[**My GitHub**](https://github.com/BilalHaiderID)
-[**My Whatsapp**](https://wa.me/+923440157745)
+[**My GitHub**](https://github.com/BilalHaiderID) </br>
+[**My Whatsapp**](https://wa.me/+923440157745) </br>
+
