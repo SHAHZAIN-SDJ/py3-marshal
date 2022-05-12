@@ -22,6 +22,6 @@ $ git pull
 $ python run.py  
 ```
 
-[**Facebook**](https://facebook.com/SoryBro.IAm.Noob)
-[**GitHub**](https://github.com/BilalHaiderID)
-[**Whatsapp**](https://wa.me/+923440157745)
+[**My Facebook**](https://facebook.com/SoryBro.IAm.Noob) </br>
+[**My GitHub**](https://github.com/BilalHaiderID)
+[**My Whatsapp**](https://wa.me/+923440157745)
